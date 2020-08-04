@@ -15,6 +15,11 @@
  
  
  
+ ## The Original Picture
+ ![](Pictures/KAUST Internship.jpeg)
+
+ 
+ 
  
 ## Finally, the resultant picture is shown in a window 
 ![](Pictures/FaceDetectionResults.jpg)
