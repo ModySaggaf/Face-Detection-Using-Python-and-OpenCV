@@ -1,4 +1,4 @@
-# Face-Detection-Using-Python-and-OpenCV
+# Picture-Face-Detection-Using-Python-and-OpenCV
 
 #### This project is about detecting faces, eyes, and smiles for stationary pictures using Python and OpenCV.
 
