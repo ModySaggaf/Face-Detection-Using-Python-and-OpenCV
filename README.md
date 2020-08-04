@@ -24,7 +24,10 @@
 ## References
 
 [1] "OpenCV Python Tutorial For Beginners 2 - How to Install OpenCV for Python on Windows 10," ProgrammingKnowledge YouTube Channel, 05 02 2019. [Online]. Available: https://youtu.be/d3AT9EGp4iw [Accessed 03 08 2020].
+
 [2] "opencv/data/haarcascades/," OpenCV, 2013. [Online]. Available: https://github.com/opencv/opencv/tree/master/data/haarcascades [Accessed 03 08 2020].
+
+
 [3] "OpenCV & Python - Image too big to display," Stack Overflow, 2016. [Online]. Available: https://stackoverflow.com/questions/35180764/opencv-python-image-too-big-to-display [Accessed 03 08 2020].
 [4] A. Menon, "Face Detection in 2 Minutes using OpenCV & Python," Towards Data Science, 22 08 2019. [Online]. Available: https://towardsdatascience.com/face-detection-in-2-minutes-using-opencv-python-90f89d7c0f81 [Accessed 03 08 2020].
 [5] "Python | Smile detection using OpenCV," GeeksforGeeks, 29 03 2019. [Online]. Available: https://www.geeksforgeeks.org/python-smile-detection-using-opencv/ [Accessed 03 08 2020].
