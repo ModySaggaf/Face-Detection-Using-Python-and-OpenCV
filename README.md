@@ -2,7 +2,7 @@
 
 #### This project is about detecting faces, eyes, and smiles for stationary pictures using Python and OpenCV.
 
-## Firstly, the OpenCV library was installed following a tutorial [1] then using the command
+## Firstly, the OpenCV library was installed following a tutorial [1] then using the command:
 ###  pip install opencv-python
   
   
