@@ -16,7 +16,7 @@
  
  
  ## The Original Picture
- ![](Pictures/KAUST Internship.jpeg)
+ ![](Pictures/KAUST%20Internship.jpeg)
 
  
  
