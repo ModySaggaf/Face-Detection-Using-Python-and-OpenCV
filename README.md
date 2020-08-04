@@ -21,7 +21,7 @@
 
 ## Issue has been fixed
 #### The output image was too big to be displayed in the screen, so I looked for a solution and added the line:
-#### “cv2.namedWindow("Face Detection Result", cv2.WINDOW_NORMAL)”
+#### cv2.namedWindow("Face Detection Result", cv2.WINDOW_NORMAL)
 #### And this solved the issue and the window could be resized manually and freely [3].
 
 
